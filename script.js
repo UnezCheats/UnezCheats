@@ -1,7 +1,7 @@
 const CONFIG = {
-    downloadLink: "https://github.com/MosquitoLine/Unez-Core/releases/download/Unez-12-09-2026/UnezCheats.zip",
+    downloadLink: "https://github.com/MosquitoLine/Unez-Core/releases/download/Unez-24-09-2026/UnezCheats.zip",
     lastUpdated: {
-        day: "12",
+        day: "24",
         month: "09",
         time: "13:35:27",
         year: "2026",
